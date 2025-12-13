@@ -1,4 +1,4 @@
-![banner](a1ab3e3c-c4ce-4d3b-858d-f2341d396a69.png)
+![banner](banner.png)
 # 👁️ A. Eys — AI Automation Engineer & Metaphysical Creator  
 **AI • Automation • Creative Engineering • Dark Symbolic Aesthetics**
 
